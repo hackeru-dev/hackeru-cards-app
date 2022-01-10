@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.minh-800 {
+  min-height: 800px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subTitle {
+  font-size: larger;
+}
+
+i:hover {
+  cursor: pointer;
+}
